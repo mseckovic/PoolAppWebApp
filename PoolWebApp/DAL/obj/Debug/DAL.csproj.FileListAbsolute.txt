@@ -1,0 +1,11 @@
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\DAL\bin\Debug\DAL.dll
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\DAL\bin\Debug\DAL.pdb
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\DAL\bin\Debug\InfrastructuredServices.dll
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\DAL\bin\Debug\Model.dll
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\DAL\bin\Debug\InfrastructuredServices.pdb
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\DAL\bin\Debug\Model.pdb
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\DAL\obj\Debug\DAL.dll
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\DAL\obj\Debug\DAL.pdb

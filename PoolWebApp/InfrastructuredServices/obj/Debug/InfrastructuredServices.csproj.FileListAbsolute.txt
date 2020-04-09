@@ -1,0 +1,6 @@
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\InfrastructuredServices\bin\Debug\InfrastructuredServices.dll
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\InfrastructuredServices\bin\Debug\InfrastructuredServices.pdb
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\InfrastructuredServices\obj\Debug\InfrastructuredServices.csprojAssemblyReference.cache
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\InfrastructuredServices\obj\Debug\InfrastructuredServices.csproj.CoreCompileInputs.cache
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\InfrastructuredServices\obj\Debug\InfrastructuredServices.dll
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\InfrastructuredServices\obj\Debug\InfrastructuredServices.pdb
