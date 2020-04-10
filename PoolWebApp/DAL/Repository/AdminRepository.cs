@@ -86,7 +86,7 @@ namespace DAL.Repository
         public Admin GetAdminByID(int adminID)
         {
             Connection con = new Connection();
-            Admin admini = null;
+            Admin admini = new Admin();
             try
             {
                 con.OpenConnection();
@@ -121,7 +121,7 @@ namespace DAL.Repository
             {
                 con.CloseConnection();
             }
-            logger.LogInfo(DateTime.Now, "GetKorisnikByID method has sucessfully invoked.");
+            logger.LogInfo(DateTime.Now, "GetAdminByID method has sucessfully invoked.");
             return admini;
         }
         #endregion

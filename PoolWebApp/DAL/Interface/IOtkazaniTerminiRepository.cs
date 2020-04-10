@@ -9,6 +9,6 @@ namespace DAL.Interface
 {
     public interface IOtkazaniTerminiRepository
     {
-        void AddAuthorBook(OtkazaniTermini otkazaniTermin);
+        void AddOtkazaniTermin(OtkazaniTermini otkazaniTermin);
     }
 }

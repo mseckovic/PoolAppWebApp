@@ -136,7 +136,7 @@ namespace DAL.Repository
         public Korisnik GetKorisnikByID(int korisnikID)
         {
             Connection con = new Connection();
-            Korisnik korisnici = null;
+            Korisnik korisnici = new Korisnik() ;
             try
             {
                 con.OpenConnection();

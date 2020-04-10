@@ -50,8 +50,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdminRepositoryTest.cs" />
+    <Compile Include="BazenRepositoryTest.cs" />
     <Compile Include="KorisnikRepositoryTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RezervacijaTerminaRepositoryTest.cs" />
+    <Compile Include="TerminRepositoryTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

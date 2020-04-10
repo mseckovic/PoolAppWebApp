@@ -50,7 +50,11 @@
     <Compile Include="Interface\ITerminRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\AdminRepository.cs" />
+    <Compile Include="Repository\BazenRepository.cs" />
     <Compile Include="Repository\KorisnikRepository.cs" />
+    <Compile Include="Repository\OtkazaniTermini.cs" />
+    <Compile Include="Repository\RezervacijaTerminaRepository.cs" />
+    <Compile Include="Repository\TerminRepository.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
