@@ -71,3 +71,4 @@ C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\PoolWebApp\obj
 C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\PoolWebApp\obj\Debug\PoolWebApp.csproj.CopyComplete
 C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\PoolWebApp\obj\Debug\PoolWebApp.dll
 C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\PoolWebApp\obj\Debug\PoolWebApp.pdb
+C:\Users\milos.seckovic\Documents\GitHub\PoolAppWebApp\PoolWebApp\PoolWebApp\obj\Debug\PoolWebApp.csprojAssemblyReference.cache
